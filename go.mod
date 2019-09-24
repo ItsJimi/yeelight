@@ -1,4 +1,4 @@
-module yeelight
+module github.com/ItsJimi/yeelight
 
 require (
 	github.com/google/pprof v0.0.0-20190208070709-b421f19a5c07 // indirect
